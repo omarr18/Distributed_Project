@@ -33,3 +33,5 @@ write in the terminal "npm start"
 
 
 Link to heruko: https://team13-distributed.herokuapp.com
+
+Link to youtube video: https://www.youtube.com/watch?v=Fj3K00JDfdI
